@@ -1,0 +1,2 @@
+NodeJs < 14.0
+export CFLAGS="-std=gnu99 -maes"
